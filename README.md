@@ -23,6 +23,28 @@ Feel free to explore the solutions and the thought process behind them. If you h
   - Space Complexity: O(1)
   - [Link to the problem](https://www.hackerrank.com/challenges/arrays-ds/problem)
 
+- Problem 2: Given an array of integers, find the sum of its elements. 
+  - Approach: loop, sum=0
+  - Time Complexity: O(n)
+  - Space Complexity: O(1)
+
+- Problem 3: Compare triplets
+  - Approach: loop, if-else, counter
+  - Time Complexity: O(n)
+  - Space Complexity: O(1)
+  - [Link to the problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)
+
+- Problem 4: Very Big Number
+  - Approach: python automatically handles large numbers, no need to use long
+  - Time Complexity: O(n)
+  - Space Complexity: O(1)
+  - [Link to the problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)
+ 
+- Problem 3: Given a square matrix, calculate the absolute difference between the sums of its diagonals.
+  - Approach: i+j == n-1, i == j, n*n matrix, if condition
+  - Time Complexity: O(n^2)
+  - Space Complexity: O(1)
+  - [Link to the problem](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true)
 
 
 ## Strings
